@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\Atv-14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\Atv-14.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\Atv-14.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\Atv-14.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\bin\Debug\net8.0\Atv-14.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\bin\Debug\net8.0\Atv-14.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\bin\Debug\net8.0\Atv-14.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\bin\Debug\net8.0\Atv-14.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\bin\Debug\net8.0\Atv-14.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\Atv-14.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\refint\Atv-14.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\Atv-14.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\Atv-14.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-14\Atv-14\obj\Debug\net8.0\ref\Atv-14.dll

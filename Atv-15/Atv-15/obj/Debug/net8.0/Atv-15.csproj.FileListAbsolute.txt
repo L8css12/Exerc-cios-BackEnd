@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\bin\Debug\net8.0\Atv-15.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\bin\Debug\net8.0\Atv-15.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\bin\Debug\net8.0\Atv-15.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\bin\Debug\net8.0\Atv-15.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\bin\Debug\net8.0\Atv-15.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\Atv-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\Atv-15.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\Atv-15.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\Atv-15.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\Atv-15.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\refint\Atv-15.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\Atv-15.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\Atv-15.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Exercicios-pt2\Atv-15\Atv-15\obj\Debug\net8.0\ref\Atv-15.dll
